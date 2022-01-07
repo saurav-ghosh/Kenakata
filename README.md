@@ -1,4 +1,4 @@
-# kenakata
+# kenakata is simple React Native app
 
 #### Features:
 
